@@ -2,6 +2,10 @@
 
 A production-ready React component library for AI agent interfaces.
 
+## UI Preview
+
+![agentic-ui storybook preview](docs/assets/storybook-preview.png)
+
 ## Production Readiness
 
 - CI gates for typecheck, test coverage, package build, and Storybook build
