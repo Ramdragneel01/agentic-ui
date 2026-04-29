@@ -36,6 +36,7 @@
     ],
     "scripts": {
         "clean": "rimraf dist storybook-static",
+        "lint": "npm run typecheck",
         "typecheck": "tsc --noEmit",
         "test": "vitest",
         "test:ci": "vitest run --coverage",
