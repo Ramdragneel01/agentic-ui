@@ -24,3 +24,18 @@ Document non-obvious trade-offs and follow-up decisions.
 2. Why this trade-off:
 3. Revisit trigger:
 4. Follow-up issue or milestone:
+
+
+## What changed
+-
+
+## Why this change
+-
+
+## Validation
+- [ ] Local checks passed
+- [ ] Tests added or updated when behavior changed
+
+## Risk and rollout
+- Risk level:
+- Rollback plan:
